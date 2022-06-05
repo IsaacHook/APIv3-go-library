@@ -1,4 +1,4 @@
-module github.com/sendinblue/APIv3-go-library
+module github.com/IsaacHook/APIv3-go-library
 
 go 1.16
 
